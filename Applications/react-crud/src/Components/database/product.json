@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "productName": "AC",
+      "brandName": "TATA",
+      "price": 60000,
+      "id": 1
+    },
+    {
+      "productName": "laptop",
+      "brandName": "TATA",
+      "price": 60000,
+      "id": 2
+    },
+    {
+      "productName": "AC",
+      "brandName": "TATA",
+      "price": 60000,
+      "id": 3
+    },
+    {
+      "productName": "laptop",
+      "brandName": "TATA",
+      "price": 60000,
+      "id": 4
+    },
+    {
+      "productName": "tr",
+      "brandName": "tr",
+      "price": "556",
+      "id": 5
+    }
+  ]
+}
